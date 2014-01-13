@@ -1,12 +1,4 @@
-Use this code at your own risk.  This code has no warranty
-and the author is not responsible for any damage, harm,
-or dissatisfaction from using or running the code.  Make
-sure that you understand the code before running it.
+# WPF 3D Tutorial
 
-You may re-use this code in whole or in part, but please
-give the author credit in your code comments.
-
-Mike Hodnick
-www.kindohm.com
-
-
+This is a basic demonstration of some 3D concepts in WPF 3D. It accompanies
+the content found at http://kindohm.com/technical/WPF3DTutorial.htm.
